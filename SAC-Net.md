@@ -5,4 +5,4 @@ SAC-Net: Spatial Attenuation Context for Salient Object Detection
 在第二次decoding的过程中，添加的SAC模块结构如下图所示![SAC模块](https://github.com/sunshinee24/Paper/blob/master/images/SAC-Net2.png)
 
 
-论文地址 [论文地址](https://arxiv.org/pdf/1903.10152.pdf)
+论文地址 [PDF](https://arxiv.org/pdf/1903.10152.pdf)
