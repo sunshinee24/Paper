@@ -11,3 +11,5 @@ Chinese explanation: [链接](https://mp.weixin.qq.com/s/SsXqcL5evYUw3KoxIq60kQ)
 4) Coordinate Transformation
 5) Upscaling Transformation
 6) Bipyramid
+
+论文[PDF](https://arxiv.org/pdf/1903.12174.pdf)
