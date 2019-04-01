@@ -13,4 +13,4 @@ Understanding and Visualizing Deep Visual Saliency Models [PDF](https://arxiv.or
 1）mask是有作用的，第二列的高亮就是mask的地方  
 2）在没有mask的时候，依然编码了显著性的region，思考：浅层网络编码纹理等特征是否是个错误的设定？  
 
-fine-tune 中的target改变![image](https://github.com/sunshinee24/Paper/blob/master/CVPR%202019/images/salient.png)
+fine-tune 中的target改变     ![image](https://github.com/sunshinee24/Paper/blob/master/CVPR%202019/images/salient.png)
