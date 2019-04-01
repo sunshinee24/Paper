@@ -9,8 +9,8 @@ Understanding and Visualizing Deep Visual Saliency Models [PDF](https://arxiv.or
 3）although deep models of saliency outperform classicalmodels on natural images, the converse is true for syntheticstimuli (e.g. pop-out search arrays), an evidence of signif-icant  difference  between  human  and  data-driven  saliencymodels
 4) we confirm that, after-fine tuning, the changein inner-representations is mostly due to the task and not thedomain shift in the datasets
 
-验证salience mask的作用！[image](https://github.com/sunshinee24/Paper/blob/master/CVPR 2019/images/Salience.png)
+验证salience mask的作用！[image])(ttps://github.com/sunshinee24/Paper/blob/master/CVPR%202019/images/Salience.png)
 1）mask是有作用的，第二列的高亮就是mask的地方
 2）在没有mask的时候，依然编码了显著性的region，思考：浅层网络编码纹理等特征是否是个错误的设定？
 
-fine-tune 中的target改变！[image](https://github.com/sunshinee24/Paper/blob/master/CVPR 2019/images/salient.png)
+fine-tune 中的target改变！[image](https://github.com/sunshinee24/Paper/blob/master/CVPR%202019/images/salient.png)
