@@ -11,3 +11,8 @@ channel-wise redundancy like group or depth-wise convolutions.
 在3.1节直接说低频的size变成了w/2,h/2,怎么降采样的？
 2. (d)是如何实现的？
 ![octave卷积](https://github.com/sunshinee24/Paper/blob/master/classification/images/Octave2.png)
+
+
+
+论文地址 [PDF](https://arxiv.org/pdf/1904.05049v1.pdf)
+论文代码 [Code](https://github.com/lxtGH/OctaveConv_pytorch)
