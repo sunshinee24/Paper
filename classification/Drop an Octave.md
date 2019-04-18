@@ -1,4 +1,6 @@
-Abstract:
+Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution  
+
+Abstract:  
 在自然图像处理中，信息是以不同频率传递的，高频率的编码细节信息而低频率的编码全局结构。  
 相似的，feature maps可以被看成不同频率的
 信息的混合。 在本文中，我们提出通过频率因式分解混合的特征图， 设计了一个Octave卷积操作存储和处理feature maps that vary spatially
