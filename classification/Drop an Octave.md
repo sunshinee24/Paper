@@ -14,5 +14,5 @@ channel-wise redundancy like group or depth-wise convolutions.
 
 
 
-论文地址 [PDF](https://arxiv.org/pdf/1904.05049v1.pdf)
+论文地址 [PDF](https://arxiv.org/pdf/1904.05049v1.pdf)  
 论文代码 [Code](https://github.com/lxtGH/OctaveConv_pytorch)
